@@ -1,4 +1,4 @@
-# TerraScope AI 🌍
+# TerraScope AI 
 
 ### Semantic Satellite Search and Environmental Change Intelligence
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **Screen 1 — Semantic Satellite Search**
    - Query satellite archives in natural language (e.g. *"Find areas around Bengaluru where built-up land increased and vegetation decreased between 2021 and 2025"*).
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 - **Language & Frameworks**: Python 3.10+, FastAPI, Streamlit, Folium
 - **Vector Search & AI**: FAISS, RemoteCLIP / PyTorch Embeddings
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Quick Start & Installation
+##  Quick Start & Installation
 
 ```bash
 # 1. Install dependencies
