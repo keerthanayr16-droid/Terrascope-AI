@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rsicd_01",
+    "caption": "A dense urban area with commercial buildings and roads",
+    "category": "built_up"
+  },
+  {
+    "id": "rsicd_02",
+    "caption": "Agricultural fields with green vegetation and irrigation channels",
+    "category": "farmland"
+  },
+  {
+    "id": "rsicd_03",
+    "caption": "Industrial zone with large roofs and concrete lots",
+    "category": "industrial"
+  },
+  {
+    "id": "rsicd_04",
+    "caption": "River flowing through a green forested area",
+    "category": "water_veg"
+  },
+  {
+    "id": "rsicd_05",
+    "caption": "Highway interchange connecting urban residential districts",
+    "category": "infrastructure"
+  }
+]
